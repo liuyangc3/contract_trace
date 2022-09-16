@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "abi-decoder": "^2.4.0",
+    "abi2signature": "^1.0.9",
+    "web3": "^1.8.0"
+  }
+}
